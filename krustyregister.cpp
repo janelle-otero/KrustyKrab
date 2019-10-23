@@ -2,15 +2,6 @@
 using namespace std;
 
 int main() {
-    /* Name: Janelle Otero
-Date: 9/8/2019
-Section: COP3014-0001
-Assignment: #1
-Due Date: 9/10/2019
-About this project: This project portrays a restaurant employee asking a customer what they would like to order. Then, it calculates the total of their order.
-Assumptions: Assumes the customer is always putting in int and not making errors. The total will be different every time because the number of orders is randomized.
-
-All work below was performed by Janelle Otero */
 
     const double PATTY = 3.50;  // price for krabby patty
     const double SHAKE = 1.00;  // price for kelp shake
